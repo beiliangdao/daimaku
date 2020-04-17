@@ -1,2 +1,0 @@
-# daimaku
-nothing
